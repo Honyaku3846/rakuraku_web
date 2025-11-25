@@ -5,11 +5,6 @@
 **<span style="color: red; ">！注意！</span>**  
 本マニュアル内のスクリーンショットや説明と、実際の画面が異なる場合があります。実際の画面に従って操作してください。
 
-＜参考＞ 公式 製品サイト「楽楽精算」動作保証環境  
-<a href="https://www.rakurakuseisan.jp/environment/index.php">
-  https://www.rakurakuseisan.jp/environment/index.php
-</a>
-
 ## 1. ログインとTOP画面
 
 ### [1-1. パスワードを設定する](./1.loginandtop/1-1.md)  
@@ -68,3 +63,7 @@
 ### [7-7. 領収書／請求書データの削除・修正](7.electronicbook/7-7.md)
 ### [7-8. 否認処理された伝票に紐づく領収書／請求書データの再利用方法](7.electronicbook/7-8.md)
 
+＜参考＞ 公式 製品サイト「楽楽精算」動作保証環境  
+<a href="https://www.rakurakuseisan.jp/environment/index.php">
+  https://www.rakurakuseisan.jp/environment/index.php
+</a>
