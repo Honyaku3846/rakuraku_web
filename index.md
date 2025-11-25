@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/style.css">
+
 ![トップ画像](./images/0-0-001.png) 
 
 # ホンヤク社　楽楽精算　申請者向けマニュアル
@@ -62,6 +64,19 @@
 ### [7-6. パソコン：伝票への紐づけ](7.electronicbook/7-6.md)
 ### [7-7. 領収書／請求書データの削除・修正](7.electronicbook/7-7.md)
 ### [7-8. 否認処理された伝票に紐づく領収書／請求書データの再利用方法](7.electronicbook/7-8.md)
+
+<button onclick="window.print()" style="
+  background-color: #007bff;
+  color: white;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  margin: 10px 0;
+">
+  📄 マニュアルをPDFで保存（印刷）
+</button>
 
 ＜参考＞ 公式 製品サイト「楽楽精算」動作保証環境  
 <a href="https://www.rakurakuseisan.jp/environment/index.php">

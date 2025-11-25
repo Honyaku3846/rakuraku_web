@@ -1,0 +1,25 @@
+/* 印刷時だけ適用される設定 */
+@media print {
+
+  /* GitHub Pages のヘッダ（テーマによりクラス名異なる） */
+  header, .site-header, .page-header, nav {
+    display: none !important;
+  }
+
+  /* 背景を白に、読みやすく */
+  body {
+    background: white;
+    font-size: 12pt;
+  }
+
+  /* ボタン類を非表示にする */
+  button {
+    display: none;
+  }
+
+  /* PDFに不要なリンク下線を消す */
+  a {
+    text-decoration: none;
+    color: black;
+  }
+}
