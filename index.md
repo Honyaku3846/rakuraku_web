@@ -1,6 +1,8 @@
 ![トップ画像](./images/0-0-001.png) 
 
-# ホンヤク社　楽楽精算　申請者向けマニュアル
+# ホンヤク社　楽楽精算　<span style="color: blue; ">申請者</span>向けマニュアル
+※「承認者向けマニュアル」は[こちら](https://honyaku3846.github.io/rakuraku_web_shonin/)  
+※「よくある問い合わせ集」は[こちら](https://honyaku3846.github.io/rakuraku_web_faq/)  
 
 **<span style="color: red; ">！注意！</span>**  
 本マニュアル内のスクリーンショットや説明と、実際の画面が異なる場合があります。実際の画面に従って操作してください。
